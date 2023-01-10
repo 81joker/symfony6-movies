@@ -1,6 +1,6 @@
 # symfony6-movies
 
-#   composer install
-##  symfony console doctrine:database:create
-###  symfony console doctrine:migrations:migrate
-#### symfony console doctrine:fixtures:load
+1.  composer install
+2.  symfony console doctrine:database:create
+3. symfony console doctrine:migrations:migrate
+4. symfony console doctrine:fixtures:load
